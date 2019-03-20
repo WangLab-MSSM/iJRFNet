@@ -1,4 +1,4 @@
-# DreamAI
+# iJRFNet
 - [Authors](#authors)
 - [Overview](#Overview)
 - [Installation](#installation)
